@@ -1,14 +1,13 @@
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.util.Enumeration;
-import java.util.Properties;
-
-import java.util.Connect;
+import static java.lang.System.out;
 
 public class mainActivity {
 	public static void main(String[] args){
-		  //Contenu de votre classe
-		static Connect Connexion;
+//		  Contenu de votre classe
+//		Connect connection = new Connect();
 		
+		out.print("debut programme");
+//		Connect.lireEnBase();
+		
+		System.out.println("fin programme");
 		}
 }
